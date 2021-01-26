@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+
+# Setup
+title:            LITE Ethics Lab
+tagline:          'where social impact and tech meet'
+description:      'where social impact and tech meet'
+url:              http://lite-ethics-lab.github.io
+baseurl:          /
+
+author:
+  name:           'Adam Jones and Gabriella Miesner'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+plugins: [jekyll-paginate]
