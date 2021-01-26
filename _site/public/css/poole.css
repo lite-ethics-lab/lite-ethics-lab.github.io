@@ -351,12 +351,6 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
-.post-author {
-  display: block;
-  margin-top: -1rem;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
-}
 
 /* Related posts */
 .related {

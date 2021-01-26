@@ -250,5 +250,16 @@ a.sidebar-nav-item:focus {
 }
 
 .headshots{
-  height: 15rem; 
+  height: 10rem;
+  margin-right: 2rem;
+}
+
+.flex-row{
+  display: flex;
+  flex-direction: row;
+}
+
+.gray{
+color: #9a9a9a;
+font-weight: 500; 
 }
