@@ -261,5 +261,9 @@ a.sidebar-nav-item:focus {
 
 .gray{
 color: #9a9a9a;
-font-weight: 600; 
+font-weight: 600;
 }
+
+.grey{
+color: #676666;
+font-weight: 600; }

@@ -8,12 +8,16 @@ title: About
 
 ## Undergraduate Researchers
 ### Adam Jones
+<span class = "grey"> assistant lab manager </span>
+<br> 
  <span class = "gray">freshman, b.s. information science and technology</span>
 <div class = "flex-row">
 <img src = "assets/adam.png" class = "headshots"/>
 adam is adam.
 </div>
 ### Gabriella Miesner
+ <span class = "grey"> lab manager </span>
+ <br>
  <span class = "gray">freshman, b.s. information science and technology</span>
 <div class = "flex-row">
 <img src = "assets/gabriella.jpg" class = "headshots"/>
