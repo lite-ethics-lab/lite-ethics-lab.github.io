@@ -1,3 +1,4 @@
 git add .
-git commit -m "PushedFromBat"
+git commit -m "PushedFromBatAgain"
 git push
+pause
