@@ -4,14 +4,14 @@
  <title>LITE Ethics Lab</title>
  <link href="http://lite-ethics-lab.github.io/atom.xml" rel="self"/>
  <link href="http://lite-ethics-lab.github.io/"/>
- <updated>2021-01-28T13:13:24-06:00</updated>
+ <updated>2021-01-28T13:30:36-06:00</updated>
  <id>http://lite-ethics-lab.github.io</id>
  <author>
    <name>Adam Jones and Gabriella Miesner</name>
    <email></email>
  </author>
 
-
+ 
  <entry>
    <title>Algorithms of Oppression</title>
    <link href="http://lite-ethics-lab.github.io/notes/2021/01/28/algorithms-of-opression.html"/>
@@ -28,7 +28,7 @@
 &lt;h2 id=&quot;chapter-one--a-society-searching&quot;&gt;Chapter One : A Society, Searching&lt;/h2&gt;
 </content>
  </entry>
-
+ 
  <entry>
    <title>What's Jekyll?</title>
    <link href="http://lite-ethics-lab.github.io/notes/2012/02/06/whats-jekyll.html"/>
@@ -37,6 +37,6 @@
    <content type="html">&lt;p&gt;yeet&lt;/p&gt;
 </content>
  </entry>
-
+ 
 
 </feed>
