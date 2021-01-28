@@ -4,7 +4,11 @@
  <title>LITE Ethics Lab</title>
  <link href="http://lite-ethics-lab.github.io/atom.xml" rel="self"/>
  <link href="http://lite-ethics-lab.github.io/"/>
+<<<<<<< HEAD
  <updated>2021-01-28T13:16:07-06:00</updated>
+=======
+ <updated>2021-01-28T13:13:24-06:00</updated>
+>>>>>>> fdf9fb40ec7762dc4c274e0de5f241a2d3b714b1
  <id>http://lite-ethics-lab.github.io</id>
  <author>
    <name>Adam Jones and Gabriella Miesner</name>
