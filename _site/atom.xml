@@ -4,22 +4,22 @@
  <title>LITE Ethics Lab</title>
  <link href="http://lite-ethics-lab.github.io/atom.xml" rel="self"/>
  <link href="http://lite-ethics-lab.github.io/"/>
- <updated>2021-01-27T23:18:33-06:00</updated>
+ <updated>2021-01-28T09:53:11-06:00</updated>
  <id>http://lite-ethics-lab.github.io</id>
  <author>
    <name>Adam Jones and Gabriella Miesner</name>
    <email></email>
  </author>
 
-
+ 
  <entry>
    <title>What's Jekyll?</title>
    <link href="http://lite-ethics-lab.github.io/notes/2012/02/06/whats-jekyll.html"/>
    <updated>2012-02-06T00:00:00-06:00</updated>
-   <id>http://lite-ethics-lab.github.io/2012/02/06/whats-jekyll</id>
+   <id>http://lite-ethics-lab.github.io/notes/2012/02/06/whats-jekyll</id>
    <content type="html">&lt;p&gt;yeet&lt;/p&gt;
 </content>
  </entry>
-
+ 
 
 </feed>
